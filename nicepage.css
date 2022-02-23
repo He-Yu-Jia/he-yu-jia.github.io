@@ -36912,8 +36912,30 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 1.5rem;
   }
 }
+ .u-footer {
+  background-image: none;
+}
+
 .u-footer .u-sheet-1 {
-  min-height: 63px;
+  min-height: 92px;
+}
+
+.u-footer .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 74px;
+  min-width: 42px;
+  margin: 30px auto;
+}
+
+.u-footer .u-icon-1 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-footer .u-icon-2 {
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
 }
 
 
