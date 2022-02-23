@@ -36913,25 +36913,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 105px;
-}
-
-.u-footer .u-social-icons-1 {
-  height: 32px;
-  min-height: 16px;
-  width: 74px;
-  min-width: 42px;
-  margin: 37px auto;
-}
-
-.u-footer .u-icon-1 {
-  color: rgb(197, 54, 164) !important;
-  height: 100%;
-}
-
-.u-footer .u-icon-2 {
-  height: 100%;
-  color: rgb(219, 83, 75) !important;
+  min-height: 63px;
 }
 
 
